@@ -1,0 +1,24 @@
+{
+  "name": "@baristaner/array_query",
+  "version": "1.0.1",
+  "description": "A package for data filtering and querying arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baristaner",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.52.0",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baristaner/array_query.git"
+  },
+  "keywords": ["array", "query", "filter", "npm"],
+  "bugs": {
+    "url": "https://github.com/baristaner/array_query/issues"
+  },
+  "homepage": "https://github.com/baristaner/array_query"
+}
